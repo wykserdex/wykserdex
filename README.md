@@ -1,5 +1,7 @@
 # wykse
 
+<img src="shadowfiend.jpg" alt="shadowfiend" width="400">
+
 Python / Go — Telegram Security & OSINT. Делаю жёстко, чисто и с человеком в контуре.
 
 Clean Architecture · human approval by default · rate limits · idempotency · evidence, not hype.
@@ -19,7 +21,7 @@ Clean Architecture · human approval by default · rate limits · idempotency ·
 | [aether-250](https://github.com/wykserdex/aether-250) | Своя локальная LLM 250M с нуля: Gated Retention, чистый PyTorch |
 | [wedra](https://github.com/wykserdex/wedra) | Оркестратор цепочек на Go: YAML-пайплайны, гейты аппрува, журнал ранов |
 
-> После переименований ссылки выше станут `github.com/wykserdex/yourosint`, `/otklik`, `/yadro`. Старые URL GitHub сам редиректит.
+> Старые имена реп GitHub редиректит автоматически.
 
 ## Принципы
 
@@ -30,7 +32,7 @@ Clean Architecture · human approval by default · rate limits · idempotency ·
 
 ## UntilSec family
 
-`untilscam` (антискам) + `untilphish` (антифишинг) + `keywatch` (утёкшие секреты) + `leakeye` (утечки) → все сливаются в `campaign-graph`.
+`wykse` (антискам) + `untilphish` (антифишинг) + `keywatch` (утёкшие секреты) + `leakeye` (утечки) → все сливаются в `campaign-graph`.
 
 ## Контакт
 
