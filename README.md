@@ -12,7 +12,7 @@ Clean Architecture · human approval by default · rate limits · idempotency ·
 
 | Repo | Что это |
 |---|---|
-| [yourosint](https://github.com/wykserdex/yourosint) | OSINT intel-graph по Telegram: GIN-триграммы, HMAC blind-index, граф одним SQL CTE |
+| [korus](https://github.com/wykserdex/korus) | OSINT intel-graph по Telegram: GIN-триграммы, HMAC blind-index, граф одним SQL CTE |
 | [otklik](https://github.com/wykserdex/otklik) | Outreach по вакансиям: скоринг, персональные драфты, аппрув человеком, лимиты |
 | [yadro](https://github.com/wykserdex/yadro) | Ядро мультитул-бота: категории-плагины, параллельный мультиаккаунт, SQLite-задачи |
 | [campaign-graph](https://github.com/wykserdex/campaign-graph) | Корреляционный граф UntilSec: сводит Secret / Leak / Phish в одну кампанию |
