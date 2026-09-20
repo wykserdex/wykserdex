@@ -2,7 +2,7 @@
 
 <img src="shadowfiend.jpg" alt="shadowfiend" width="400">
 
-Python / Go — Telegram Security & OSINT. Делаю жёстко, чисто и с человеком в контуре.
+Python / Go — Telegram Security & OSINT. аххахАХАХХА
 
 Clean Architecture · human approval by default · rate limits · idempotency · evidence, not hype.
 
